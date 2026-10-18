@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# API keys and environment variables
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local databases and generated indexes
+chroma_db/
+*.db
+
+# Private datasets and output files
+*.xlsx
+*.parquet
+
+# macOS
+.DS_Store
+
+financial_statements.csv
