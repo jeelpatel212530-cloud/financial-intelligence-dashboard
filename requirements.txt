@@ -1,0 +1,8 @@
+streamlit==1.66.0
+pandas
+plotly
+prophet
+chromadb
+sentence-transformers
+openai
+kagglehub
