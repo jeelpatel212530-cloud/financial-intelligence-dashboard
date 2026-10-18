@@ -109,6 +109,10 @@ with st.sidebar:
 if uploaded_file is None:
     st.info("Please upload your financial statements CSV using the sidebar.")
     st.stop()
+    # `st.stop()` only interrupts execution inside Streamlit. If this file is
+    # started as a normal Python script, exit cleanly instead of falling
+    # through to uploaded_file.getvalue().
+    raise SystemExit
 
 csv_bytes = uploaded_file.getvalue()
 
