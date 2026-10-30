@@ -1,4 +1,3 @@
-[github_repository_readme.md](https://github.com/user-attachments/files/34141048/github_repository_readme.md)[Uplo# 📊 FinIntel-Multimodal: Enterprise Financial Analytics & RAG Engine
 
 **FinIntel-Multimodal** is an enterprise-grade financial intelligence platform that fuses structured time-series quantitative forecasting with unstructured semantic Retrieval-Augmented Generation (RAG). Designed to eliminate generative AI mathematical hallucinations during corporate analysis, the system integrates robust data pipelines, dense vector stores, statistical time-series models, and LLM orchestration into a unified Streamlit web application.
 
