@@ -1,11 +1,28 @@
 
 **FinIntel-Multimodal** is an enterprise-grade financial intelligence platform that fuses structured time-series quantitative forecasting with unstructured semantic Retrieval-Augmented Generation (RAG). Designed to eliminate generative AI mathematical hallucinations during corporate analysis, the system integrates robust data pipelines, dense vector stores, statistical time-series models, and LLM orchestration into a unified Streamlit web application.
-
+<p align="center">
+  <a href="https://financial-intelligence-dashboard-faxtdjfrhwymsmb8cutzj6.streamlit.app/" target="_blank">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" height="42">
+  </a>
+</p>
+<p align="center">
+  <a href="https://financial-intelligence-dashboard-faxtdjfrhwymsmb8cutzj6.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-Financial%20Intelligence%20Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101216" alt="Live Demo" height="38"/>
+  </a>
+</p>
 <p align="center">
   <a href="https://financial-intelligence-dashboard-faxtdjfrhwymsmb8cutzj6.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/⚡_LAUNCH_APP-OPEN_LIVE_DASHBOARD-00C9FF?style=for-the-badge&logo=rocket&logoColor=white&color=FF416C" alt="Launch App" height="42"/>
   </a>
 </p>
+<div align="center">
+
+[![Streamlit App](https://img.shields.io/badge/🚀_Live_Deployment-View_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://financial-intelligence-dashboard-faxtdjfrhwymsmb8cutzj6.streamlit.app/)
+[![Status](https://img.shields.io/badge/Status-Online_&_Active-00E676?style=for-the-badge)](https://financial-intelligence-dashboard-faxtdjfrhwymsmb8cutzj6.streamlit.app/)
+
+</div>
+
+
 
 
 ---
