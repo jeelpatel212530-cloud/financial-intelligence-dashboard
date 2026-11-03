@@ -1,6 +1,13 @@
 
 **FinIntel-Multimodal** is an enterprise-grade financial intelligence platform that fuses structured time-series quantitative forecasting with unstructured semantic Retrieval-Augmented Generation (RAG). Designed to eliminate generative AI mathematical hallucinations during corporate analysis, the system integrates robust data pipelines, dense vector stores, statistical time-series models, and LLM orchestration into a unified Streamlit web application.
 
+<p align="center">
+  <a href="https://financial-intelligence-dashboard-faxtdjfrhwymsmb8cutzj6.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_LAUNCH_APP-OPEN_LIVE_DASHBOARD-00C9FF?style=for-the-badge&logo=rocket&logoColor=white&color=FF416C" alt="Launch App" height="42"/>
+  </a>
+</p>
+
+
 ---
 
 ## 🏗️ System Architecture & Modular Breakdown
