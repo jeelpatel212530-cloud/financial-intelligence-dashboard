@@ -15,13 +15,6 @@
     <img src="https://img.shields.io/badge/⚡_LAUNCH_APP-OPEN_LIVE_DASHBOARD-00C9FF?style=for-the-badge&logo=rocket&logoColor=white&color=FF416C" alt="Launch App" height="42"/>
   </a>
 </p>
-<div align="center">
-
-[![Streamlit App](https://img.shields.io/badge/🚀_Live_Deployment-View_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://financial-intelligence-dashboard-faxtdjfrhwymsmb8cutzj6.streamlit.app/)
-[![Status](https://img.shields.io/badge/Status-Online_&_Active-00E676?style=for-the-badge)](https://financial-intelligence-dashboard-faxtdjfrhwymsmb8cutzj6.streamlit.app/)
-
-</div>
-
 
 
 
@@ -105,3 +98,8 @@ python rag.py                       # Tests RAG prompt structuring & LLM synthes
 ## 📜 License
 
 Distributed under the **Apache License 2.0**. See `financial_statements.csv` or project documentation for details.ading github_repository_readme.md…]()
+
+## Screenshots
+<img width="1682" height="820" alt="Screenshot 2026-11-03 at 9 52 15 PM" src="https://github.com/user-attachments/assets/0642d533-6b1a-4de6-b831-2f0300d51a19" />
+<img width="1681" height="994" alt="Screenshot 2026-11-03 at 9 53 13 PM" src="https://github.com/user-attachments/assets/64c0bebc-39fb-447e-a067-cd5ecae7830b" />
+
