@@ -103,3 +103,5 @@ Distributed under the **Apache License 2.0**. See `financial_statements.csv` or 
 <img width="1682" height="820" alt="Screenshot 2026-11-03 at 9 52 15 PM" src="https://github.com/user-attachments/assets/0642d533-6b1a-4de6-b831-2f0300d51a19" />
 <img width="1681" height="994" alt="Screenshot 2026-11-03 at 9 53 13 PM" src="https://github.com/user-attachments/assets/64c0bebc-39fb-447e-a067-cd5ecae7830b" />
 
+## 🛑 Disclaimer -: Consider it as a project work not a financial advice.
+
